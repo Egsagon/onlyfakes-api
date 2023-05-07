@@ -8,7 +8,7 @@ License: MIT - See the `LICENSE` file.
 
 # Installation
 
-- Install with pip: TODO
+- Install with pip: `pip install onlyfakes`
 - Install locally from github: `pip install git+https://github.com/Egsagon/onlyfakes-api.git`
 
 # Usage
