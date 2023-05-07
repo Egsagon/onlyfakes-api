@@ -14,7 +14,7 @@ from datetime import datetime
 from typing import Self
 from dataclasses import dataclass
 
-import consts
+from onlyfakes import consts
 
 rand_string = lambda le: ''.join(map(str, (randint(0, 9) for _ in range(le))))
 

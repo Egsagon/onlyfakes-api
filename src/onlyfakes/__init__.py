@@ -7,8 +7,8 @@ see https://github.com/Egsagon/onlyfakes-api
 __author__ = 'Egsagon'
 __license__ = 'MIT'
 
-from core import API as Client, Seed, Image, Prompt
+from onlyfakes.core import API as Client, Seed, Image, Prompt
 
-from consts import Engine, Preset
+from onlyfakes.consts import Engine, Preset
 
 # EOF

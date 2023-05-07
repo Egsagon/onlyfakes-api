@@ -44,7 +44,7 @@ Other example using shorthands:
 ```python
 import onlyfakes as of
 
-of.Client().new(prompt = '<insert positive prompt>', engine = of.Engine.hentai_HD).generate().download('result.png')
+of.Client().new(prompt = '<fill>', negative_prompt = '<fill>', engine = of.Engine.hentai_HD).generate().download('result.png')
 ```
 
 The `generate` method contains a loop that breaks when it get a result. You can change its interaction intervals and
