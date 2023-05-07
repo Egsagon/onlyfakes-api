@@ -1,7 +1,7 @@
 '''
 An API wrapper for the onlyfakes website.
 
-see https://github.com/Egsagon/TODO
+see https://github.com/Egsagon/onlyfakes-api
 '''
 
 __author__ = 'Egsagon'

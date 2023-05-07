@@ -5,7 +5,7 @@ Constants for the core module.
 
 # Website constants
 char_limit = 750
-target = 'https://onlyfakes.app//.netlify/functions/'
+target = 'https://onlyfakes.app/.netlify/functions/'
 
 # Request headers
 headers = {
